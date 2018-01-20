@@ -20,7 +20,7 @@ var myfunc = function(){
 
 // return on the other hand, is accessible to the rest of your program.
 
-// There are two really important things abour return:
+// There are two really important things about return:
 
 // ------------------------------------ RETURN PART 1 -----------------------------------
 
