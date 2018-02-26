@@ -1,7 +1,7 @@
 
 // Map vs. For Loop Practice
 
-// Below are exercises to get you seeing the differences between using a map and a for loop. Beneath each prompt write the code fo fulfill the exercise requirement.
+// Below are exercises to get you seeing the differences between using a map and a for loop. Beneath each prompt write the code to fulfill the exercise requirement.
 
 
 // Exercise 1
