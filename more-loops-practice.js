@@ -28,7 +28,8 @@
 // Write a function that uses a do while loop to prompt a user for an odd number until their entry isodd.
 
 // Exercise 9
-// Write a function that uses a while loop to prompt a user for their hobbies until it has a list of 3 different hobbies.
+// Write a function that uses a while loop to prompt a user for their hobbies until it has a list of 3 different hobbies. Use an alert or a confirm to show the user all the hobbies they entered.
+
 
 // Exercise 10
-// Write a function that uses a do a while loop to prompt a user for their hobbies until it has a has a list of 3 different hobbies.
+// Write a function that uses a do a while loop to prompt a user for their hobbies until it has a has a list of 3 different hobbies. Use an alert or a confirm to show the user all the hobbies they entered.
