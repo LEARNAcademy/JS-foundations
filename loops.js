@@ -1,4 +1,4 @@
-THE 4 TYPES OF LOOPS IN JAVASCRIPT
+// THE 4 TYPES OF LOOPS IN JAVASCRIPT
 
 // 1. The classic for loop:
 
