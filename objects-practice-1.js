@@ -26,10 +26,13 @@ var lunch = { name: "PB and Banana", type: "sandwich", ingredients: ["bread", "p
 // Write the code that accesses the ingredients property of the lunch object. Provide the answer in dot and bracket notation.
 
 // Exercise 7
-// Write the code that access the first item in the ingredients property of the lunch object. Provide the answer in dot and bracket notation.
+// Write the code that accesses the first item in the ingredients property of the lunch object. Provide the answer in dot and bracket notation.
 
 // Exercise 8
-// Write a function that takes an object like the one above and returns "The ingredients for a PB and Banana sandwich are bread, peanut butter, and banana."
+// Write the code that accesses the second item in the ingredients property of the lunch object. Provide the answer in dot and bracket notation.
 
 // Exercise 9
+// Write a function that takes an object like the one above and returns "The ingredients for a PB and Banana sandwich are bread, peanut butter, and banana."
+
+// Exercise 10
 // Add a method to the object that returns "The ingredients for a PB and Banana sandwich are bread, peanut butter, and banana."
