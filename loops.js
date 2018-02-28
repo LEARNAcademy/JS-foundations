@@ -18,15 +18,22 @@ THE 4 TYPES OF LOOPS IN JAVASCRIPT
 
 // The for in loop
 
-// the for-in loop is specialized for iterating through arrays
+// the for-in loop is specialized for iterating over the attributes of an object
 
 // -------------------------- EXAMPLE 1 ----------------------------------------------------
 
 
-// var arr = ["storm trooper", "hello", 3, "forty-two", "Picard"]
+// var spaceship = {
+// 	captian: "Picard",
+// 	firstMate: "Wesley",
+// 	class: "Borg Cube",
+// 	name: "Enterprise",
+// 	capacity: 22100,
+// 	currentIssues: ["Tribbles"]
+// }
 //
-// for(x in arr){
-// 	console.log(arr[x] + " is cool")
+// for(let x in spaceship){ 
+// 	console.log("this spaceship has a " + x + " " + spaceship[x])
 // }
 
 // -------------------------- EXAMPLE 2 ----------------------------------------------------
