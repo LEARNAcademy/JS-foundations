@@ -36,15 +36,6 @@
 // 	console.log("this spaceship has a " + x + " " + spaceship[x])
 // }
 
-// -------------------------- EXAMPLE 2 ----------------------------------------------------
-
-// var books = ["Tale of Two Cities", "Bridge to Terebithia", "Sword in the Stone", "Peter Rabbit", ""]
-//
-// for(book in books){
-// 	console.log(book)
-// 	console.log(books[book] + " was a really good book")
-// }
-
 // ===========================================================================================
 
 // The while loop
@@ -68,10 +59,10 @@
 
 // -------------------------- EXAMPLE 1 ----------------------------------------------------
 
-var text;
-do {
-	i++;
-	text = "The number is " + i;
-	console.log(text)
-}
-while(i < 10)
+// var text;
+// do {
+// 	i++;
+// 	text = "The number is " + i;
+// 	console.log(text)
+// }
+// while(i < 10)
