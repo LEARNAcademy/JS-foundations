@@ -6,7 +6,7 @@
 // Exercise 1
 // Consider this variable:
 var groceryList1 = ["apples", "carrots", "oatmeal"]
-// Write the code that will add "granola" to the end of array without altering the original array.
+// Write the code that will add "granola" to the end of array 
 
 // Exercise 2
 // Consider this variable:
@@ -16,7 +16,7 @@ var groceryList2 = ["chips", "dip", "cookies"]
 // Exercise 3
 // Consider this variable:
 var numbers1 = [1, 2, 3, 4, 5]
-// Write the code that will add the number 0 to the beginning of the array without altering the original array.
+// Write the code that will add the number 0 to the beginning of the array 
 
 // Exercise 4
 // Consider this variable:
