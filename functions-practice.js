@@ -29,7 +29,7 @@
 // Exercise 8
 // Consider this function:
 function message(product, inBudget){
-  if(result) {
+  if(inBudget) {
     return "Product is within budget"
   } else {
     return "Product is beyond budget"
