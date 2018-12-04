@@ -27,7 +27,7 @@ var toons = [{name: "Tom", animal: "cat"}, {name: "Jerry", animal: "mouse"}, {na
 // Write a for loop that saves all cat characters to another array.
 
 // Exercise 6
-// Use map on the toons array to save all rabbit characters to another array.
+// Use filter on the toons array to save all rabbit characters to another array.
 
 // Exercise 7
 // Write a for loop to save the names of each character to another array.
