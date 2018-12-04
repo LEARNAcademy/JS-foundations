@@ -16,10 +16,10 @@ var nums = [1, 2, 3, 4, 5]
 // Consider this variable:
 var numbers = [11, 22, 33, 44, 55, 66]
 // Write a for loop that saves all numbers in the numbers array that are evenly divisible by 3 into another array.
-// Question: What happens for numbers that are not divisible by 3?
 
 // Exercise 4
 // Use map on the numbers array to save any numbers from the array that are evenly divisible by 3 into another array.
+// Question: What happens for numbers that are not divisible by 3?
 
 // Exercise 5
 // Consider this variable:
