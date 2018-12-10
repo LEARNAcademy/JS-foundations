@@ -1,3 +1,6 @@
+
+//For these exercises - write the function first, then write the test.....
+
 //write a function returns "drink coffee" if you are tired and "keep working" if you are not tired.  Then write the test.
 
 //write a function returns "relax" if you are stressed and "keep going" if you are not stressed.  Then write the test.
